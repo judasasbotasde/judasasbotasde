@@ -1,0 +1,4 @@
+- 👋 Olá, somos o @judasasbotasde
+- 👀 Somos uma associaçã de mídia alternativa
+- 🌱 Estamos construindo um aplicativo e melhorando nossos site
+- 💞️ Se quiser colaborar, entrem em contato
